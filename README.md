@@ -1,3 +1,5 @@
+![Hello Minion](https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif)
+
 ### Hi there 👋
 
 <!--
