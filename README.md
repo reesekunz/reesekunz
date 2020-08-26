@@ -1,6 +1,5 @@
-![Hello Minion](https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif)
-
-<img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width="100%" height="250"/>
+<!-- ![Hello Minion](https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif) -->
+<img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width="100%" height="400" alt='hello minion'/>
 
 ### Hi there 👋
 
