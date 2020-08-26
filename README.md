@@ -1,4 +1,9 @@
-![Hello Minion](https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif)
+![Hello Minion](https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif | width=100%)
+![Hello Minion](https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif | width=100)
+![Hello Minion](https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif =200x400)
+
+![test](https://github.com/favicon.ico | width=48)
+![test](https://github.com/favicon.ico =24x48)
 
 ### Hi there 👋
 
