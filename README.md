@@ -1,7 +1,7 @@
 <!-- ![Hello Minion](https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif) -->
 <img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width="100%" height="400" alt='hello minion'/>
 
-<p style="font-size:30px">Oh, hello 👋 &nbsp; I'm Reese, a Lambda School and University of Arizona graduate currently looking for my first Front-End/Full-Stack development role.</p>
+<p style="font-size:30px">Oh, hello 👋 &nbsp;I'm Reese, a Lambda School and University of Arizona graduate currently looking for my first Front-End/Full-Stack development role.</p>
 
 <p style="font-size:30px">Skills: HTML/CSS, Sass, JavaScript, React, Redux, Node/Express, SQL, & Python</p>
 
