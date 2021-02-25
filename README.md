@@ -1,11 +1,11 @@
 <!-- ![Hello Minion](https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif) -->
 <img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width="100%" height="400" alt='hello minion'/>
 
-<p style="font-size:30px">Oh, hello 👋 &nbsp;I'm Reese, a Lambda School and University of Arizona graduate currently looking for my first Front-End/Full-Stack development role.</p>
+<p style="font-size:30px">Oh, hello 👋 &nbsp;I'm Reese, a full-stack web developer with a background in marketing. Currently seeking new opportunities, preferably either remote or somewhere on the west coast (Portland, Seattle, San Francisco, etc.).</p>
 
-<p style="font-size:30px">Skills: HTML/CSS, Sass, JavaScript, React, Redux, Node/Express, SQL, & Python</p>
+<p style="font-size:30px">During my time at Lambda I gained valuable experience working with a wide variety of technologies, including: React, JavaScript, NodeJS, ExpressJS, HTML, CSS, Python, LESS/SASS, Redux, Jest, SQL, Gatsby, Knex, SQLite3, PostgreSQL, and MongoDB.</p>
 
-<p style="font-size:30px">Currently learning: How to make banana bread</p>
+<p style="font-size:30px">I'm passionate about the creative aspect of web development and the ability it has to bring your ideas to fruition; I love coming up with new ways to implement technologies I've learned to make a positive societal impact. After all, "life's most persistent and urgent question is: what are you doing for others?" - Martin Luther King Jr. </p>
 
 <p style="font-size:30px">To get to know more about me and some projects I've contributed to, check out <a href='https://reesekunz.com/' alt='my portfolio link'>my portfolio. </a></p>
 
