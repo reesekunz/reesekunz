@@ -1,11 +1,9 @@
 <!-- ![Hello Minion](https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif) -->
-<img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width="100%" height="400" alt='hello minion'/>
+<img src="https://giphy.com/clips/hamlet-shrek-what-are-you-doing-in-my-swamp-get-out-of-w0Yvfz6DmYrSo7kunK" width="100%" height="400" alt='hello minion'/>
 
-<p style="font-size:30px">Oh, hello 👋 &nbsp;I'm Reese, a full-stack web developer with a background in marketing. Currently seeking new opportunities, preferably either remote or somewhere on the west coast (Portland, Seattle, San Francisco, etc.).</p>
+<p style="font-size:30px">Now based in Portland, Oregon, I'm a full-stack web developer and technical writer that also has a background in marketing from the University of Arizona. Currently I'm working as a developer at a startup called Gemint and also recently obtained a technical writing certificate through Oregon State University.</p>
 
-<p style="font-size:30px">During my time at Lambda I gained valuable experience working with a wide variety of technologies, including: React, JavaScript, NodeJS, ExpressJS, HTML, CSS, Python, LESS/SASS, Redux, Jest, SQL, Gatsby, Knex, SQLite3, PostgreSQL, and MongoDB.</p>
-
-<p style="font-size:30px">I'm passionate about the creative aspect of web development and the ability it has to bring your ideas to fruition; I love coming up with new ways to implement technologies I've learned to make a positive societal impact. After all, "life's most persistent and urgent question is: what are you doing for others?" - Martin Luther King Jr. </p>
+<p style="font-size:30px">During my time as a student at the coding bootcamp Lambda School (now called BloomTech) I gained valuable experience working with technologies such as ReactJS, JavaScript, NodeJS, ExpressJS, and Python.</p>
 
 <p style="font-size:30px">To get to know more about me and some projects I've contributed to, check out <a href='https://reesekunz.com/' alt='my portfolio link'>my portfolio. </a></p>
 
