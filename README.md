@@ -6,7 +6,7 @@
 <p style="font-size:30px">During my time as a student at the coding bootcamp Lambda School (now called BloomTech) I gained valuable experience working with technologies such as ReactJS, JavaScript, NodeJS, ExpressJS, and Python.</p>
 
 <p style="font-size:30px">
-Check out <a href='https://reesekunz.com/' alt='my portfolio link'>my portfolio. </a>to get to know more about me and some projects I've contributed to!</p>
+Check out <a href='https://reesekunz.com/' alt='my portfolio link'>my portfolio </a>to get to know more about me and some projects I've contributed to!</p>
 
 <!--
 **reesekunz/reesekunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
