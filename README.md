@@ -1,6 +1,5 @@
 <!-- ![Hello Minion](https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif) -->
-<!-- <img src="https://giphy.com/clips/hamlet-shrek-what-are-you-doing-in-my-swamp-get-out-of-w0Yvfz6DmYrSo7kunK" width="100%" height="400" alt='shrek'/> -->
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/w0Yvfz6DmYrSo7kunK/video" width="480"></iframe></div>
+<img src="https://media1.giphy.com/media/1z6Lq3pEhH5yU/giphy.gif?cid=ecf05e47uhj0vwxloj0vg28fch9ltv2evyqcqlbbtwqnkwq0&rid=giphy.gif&ct=g" width="100%" height="400" alt='shrek!'/>
 
 <p style="font-size:30px">Now based in Portland, Oregon, I'm a full-stack web developer and technical writer that also has a background in marketing from the University of Arizona. Currently I'm working as a developer at a startup called Gemint and also recently obtained a technical writing certificate through Oregon State University.</p>
 
